@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "My Resume",
     description: "Download my resume by clicking the title above",
-    url: "https://github.com/pmchohan/portfolio/Abdullah's Resume.pdf",
+    url: "https://github.com/pmchohan/portfolio/blob/main/Abdullah's%20Resume.pdf",
   },
 ];
 
