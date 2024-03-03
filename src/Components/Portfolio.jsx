@@ -35,7 +35,12 @@ const projectList = [
     description:
       "Stella Chatbot is a Django-based chatbot project that utilizes AIML, machine learning, web scraping, and Prolog to provide interactive conversations and knowledge retrieval.",
     url: "https://github.com/pmchohan/stella/",
-  }
+  },
+  {
+    title: "My Resume",
+    description: "Download my resume by clicking the title above",
+    url: "https://github.com/pmchohan/portfolio/Abdullah's Resume.pdf",
+  },
 ];
 
 const Portfolio = () => {
