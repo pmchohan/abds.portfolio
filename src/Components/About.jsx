@@ -18,25 +18,25 @@ import React from "react";
  */
 import image from "../images/motion-background.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Background for About section";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Current BS AI student at UMT with an ultimate goal to master Computer Vision, NLP and Gen AI. Currently learning React, Node and Next JS for Web";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python",
+  "MS Word",
+  "Django",
+  "C++",
+  "Public Speaking",
+  "Team Management",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I love problem solving and learning new things. I am also a part of different university societies like ACM, GDSC and Leaders Forum";
 
 const About = () => {
   return (
